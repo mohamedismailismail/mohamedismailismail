@@ -1,14 +1,14 @@
 <div align="center">
   <!-- هيدر متحرك باسمك وتخصصاتك -->
   <a href="https://github.com/mohamedismailismail">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Ismail;Engineering+Student;Data+Analytics+%26+Software;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=70&lines=I'm+Mohamed+Ismail;Engineering+Student;Data+Analytics+%26+Software;Competitive+Programmer" alt="Typing SVG" />
   </a>
   <br>
   <!-- أنيميشن مبرمج جذاب -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="45%" alt="Coding GIF"/>
 </div>
 
-# Hi 👋, I'm Mohamed Ismail Ismail
+# Hello everybody 👋❤️, I'm Mohamed Ismail Ismail
 ### Computer & Communication Engineering Student
 
 *Passionate about Data Analytics, Software Engineering, Competitive Programming and Solving complex problems*
