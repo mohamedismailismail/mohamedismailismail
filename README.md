@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ea.gif" width="45%" alt="Coding GIF"/>
 </div>
 
-# Hello everybody👋, I'm Mohamed Ismail Ismail
+# Hello👋, I'm Mohamed Ismail Ismail
 ### Computer & Communication Engineering Student
 
 *Passionate about Data Analytics, Software Engineering, Competitive Programming and Solving complex problems*
